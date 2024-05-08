@@ -56,6 +56,9 @@
 
 ## Output:
 
+![image](https://github.com/shadhanashree22/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150231910/fa665a82-e75b-4aa6-8c2a-ab8cf0a2d6ab)
+
+
 ### Name: S V SHADHANASHREE
 ### Register Number: 212223230202
 
